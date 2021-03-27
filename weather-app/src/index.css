@@ -1,0 +1,13 @@
+html,body{
+  height:100%;
+  overflow: hidden;
+}
+
+.bg{
+  position:absolute;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
