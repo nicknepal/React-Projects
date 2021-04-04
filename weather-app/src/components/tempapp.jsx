@@ -15,7 +15,7 @@ const Tempapp =()=>{
             </div>
             <div className="info">
                 <h2 className="location">
-                    <i class="fas fa-street-view"></i>
+                    
                 </h2>
                 <h1 className="temp">
                     5.25°Cel
